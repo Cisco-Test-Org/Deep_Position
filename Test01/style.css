@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent {
+    height: 250px;
+    background-color: #3B9AE1;
+}
+
+.child {
+    height: 50px;
+    width: 1800px;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+    position: relative;
+}
+
+.child-one {
+    background-color: #FA2FB5;
+    left: 25px;
+}
+
+.child-two {
+    background-color: #59CE8F;
+    right: 25px;
+}
+
+.child-three {
+    background-color: #F4E06D;
+}
